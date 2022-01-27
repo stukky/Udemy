@@ -1,0 +1,19 @@
+{
+    "baseUrl": "http://localhost:4200",
+    "viewportHeight": 1080,
+    "viewportWidth": 1920,
+    "video": false,
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "configFile": "reporter-config.json"
+    },
+    "env": {
+        "username": "stuky19@gmail.com",
+        "password": "Teszt012",
+        "apiUrl": "https://api.realworld.io"
+    },
+    "retries": {
+        "runMode": 2,
+        "openMode": 1
+    }
+}

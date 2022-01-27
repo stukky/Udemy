@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<testsuites>
+<testsuite name="Root Suite" timestamp="2022-01-14T09:53:05" tests="0" file="cypress/integration/firstTest.spec.js" time="0.0000" failures="0"></testsuite>
+<testsuite name="Test with backend" timestamp="2022-01-14T09:53:05" tests="1" time="3.1610" failures="0">
+  
+  <testcase name="Test with backend Should gave tags with routing object " time="3.1370" classname="Should gave tags with routing object "></testcase>
+  
+</testsuite>
+
+<testsuite name="Root Suite" timestamp="2022-01-14T09:47:46" tests="0" file="cypress/integration/firstTest.spec.js" time="0.0000" failures="0"></testsuite>
+<testsuite name="Test with backend" timestamp="2022-01-14T09:47:46" tests="2" time="21.8610" failures="2">
+  
+  <testcase name="Test with backend verify correct request and response" time="3.3270" classname="verify correct request and response">
+    
+    <failure message="Cannot read properties of undefined (reading &apos;statusCode&apos;)" type="TypeError"><![CDATA[TypeError: Cannot read properties of undefined (reading 'statusCode')
+    at Context.eval (http://localhost:4200/__cypress/tests?p=cypress\integration\firstTest.spec.js:121:27)]]></failure>
+    
+  </testcase>
+  
+  <testcase name="Test with backend intercepting and modifying the request and response" time="3.4480" classname="intercepting and modifying the request and response">
+    
+    <failure message="Cannot read properties of undefined (reading &apos;description&apos;)" type="TypeError"><![CDATA[TypeError: Cannot read properties of undefined (reading 'description')
+    at eval (http://localhost:4200/__cypress/tests?p=cypress\integration\firstTest.spec.js:132:33)]]></failure>
+    
+  </testcase>
+  
+</testsuite>
+
+<testsuite name="Root Suite" timestamp="2022-01-14T09:56:24" tests="0" file="cypress/integration/firstTest.spec.js" time="0.0000" failures="0"></testsuite>
+<testsuite name="Test with backend" timestamp="2022-01-14T09:56:24" tests="1" time="2.8780" failures="0">
+  
+  <testcase name="Test with backend Should gave tags with routing object " time="2.8380" classname="Should gave tags with routing object "></testcase>
+  
+</testsuite>
+
+<testsuite name="Root Suite" timestamp="2022-01-14T09:50:49" tests="0" file="cypress/integration/firstTest.spec.js" time="0.0000" failures="0"></testsuite>
+<testsuite name="Test with backend" timestamp="2022-01-14T09:50:49" tests="2" time="12.2620" failures="1">
+  
+  <testcase name="Test with backend verify correct request and response" time="3.2820" classname="verify correct request and response">
+    
+    <failure message="expected 307 to equal 200" type="AssertionError"><![CDATA[AssertionError: expected 307 to equal 200
+    at Context.eval (http://localhost:4200/__cypress/tests?p=cypress\integration\firstTest.spec.js:121:42)]]></failure>
+    
+  </testcase>
+  
+  <testcase name="Test with backend Should gave tags with routing object " time="1.0630" classname="Should gave tags with routing object "></testcase>
+  
+</testsuite>
+
+</testsuites>

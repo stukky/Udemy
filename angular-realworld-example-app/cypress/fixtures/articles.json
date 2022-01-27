@@ -1,0 +1,95 @@
+{
+    "articles": [
+        {
+            "slug": "This-is-a-title-10836",
+            "title": "This is a title",
+            "description": "This is  description",
+            "body": "This is the of Article",
+            "createdAt": "2022-01-11T12:50:54.034Z",
+            "updatedAt": "2022-01-11T12:50:54.034Z",
+            "tagList": [],
+            "author": {
+                "username": "Teszt001",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "following": false
+            },
+            "favoritesCount": 22,
+            "favorited": true
+        },
+        {
+            "slug": "asd-10836",
+            "title": "asd",
+            "description": "asd",
+            "body": "asdd",
+            "createdAt": "2022-01-11T12:48:58.069Z",
+            "updatedAt": "2022-01-11T12:48:58.069Z",
+            "tagList": [],
+            "author": {
+                "username": "Teszt001",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "following": false
+            },
+            "favoritesCount": 0,
+            "favorited": false
+        },
+        {
+            "slug": "This-is-the-test-title-10836",
+            "title": "This is the test title",
+            "description": "This is  description",
+            "body": "This is the body",
+            "createdAt": "2022-01-11T12:16:48.043Z",
+            "updatedAt": "2022-01-11T12:16:48.042Z",
+            "tagList": [],
+            "author": {
+                "username": "Teszt001",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "following": false
+            },
+            "favoritesCount": 1,
+            "favorited": true
+        },
+        {
+            "slug": "Create-a-new-implementation-1",
+            "title": "Create a new implementation",
+            "description": "join the community by creating a new implementation",
+            "body": "Share your knowledge and enpower the community by creating a new implementation",
+            "createdAt": "2021-11-24T12:11:08.212Z",
+            "updatedAt": "2021-11-24T12:11:08.212Z",
+            "tagList": [
+                "implementations"
+            ],
+            "author": {
+                "username": "Gerome",
+                "bio": null,
+                "image": "https://api.realworld.io/images/demo-avatar.png",
+                "following": false
+            },
+            "favoritesCount": 732,
+            "favorited": false
+        },
+        {
+            "slug": "Explore-implementations-1",
+            "title": "Explore implementations",
+            "description": "discover the implementations created by the RealWorld community",
+            "body": "Over 100 implementations have been created using various languages, libraries, and frameworks.\n\nExplore them on CodebaseShow.",
+            "createdAt": "2021-11-24T12:11:07.952Z",
+            "updatedAt": "2021-11-24T12:11:07.952Z",
+            "tagList": [
+                "codebaseShow",
+                "implementations"
+            ],
+            "author": {
+                "username": "Gerome",
+                "bio": null,
+                "image": "https://api.realworld.io/images/demo-avatar.png",
+                "following": false
+            },
+            "favoritesCount": 462,
+            "favorited": false
+        }
+    ],
+    "articlesCount": 6
+}

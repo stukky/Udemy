@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="21.8740" tests="2" failures="2">
+  <testsuite name="Root Suite" timestamp="2022-01-14T09:47:46" tests="0" file="cypress/integration/firstTest.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Test with backend" timestamp="2022-01-14T09:47:46" tests="2" time="21.8610" failures="2">
+    <testcase name="Test with backend verify correct request and response" time="3.3270" classname="verify correct request and response">
+      <failure message="Cannot read properties of undefined (reading &apos;statusCode&apos;)" type="TypeError"><![CDATA[TypeError: Cannot read properties of undefined (reading 'statusCode')
+    at Context.eval (http://localhost:4200/__cypress/tests?p=cypress\integration\firstTest.spec.js:121:27)]]></failure>
+    </testcase>
+    <testcase name="Test with backend intercepting and modifying the request and response" time="3.4480" classname="intercepting and modifying the request and response">
+      <failure message="Cannot read properties of undefined (reading &apos;description&apos;)" type="TypeError"><![CDATA[TypeError: Cannot read properties of undefined (reading 'description')
+    at eval (http://localhost:4200/__cypress/tests?p=cypress\integration\firstTest.spec.js:132:33)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

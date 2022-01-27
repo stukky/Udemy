@@ -1,0 +1,12 @@
+{
+  "baseUrl": "http://localhost:4200",
+  "ignoreTestFiles": [
+    "**/1-getting-started/*",
+    "**/2-advanced-examples/*"
+  ],
+  "video": false,
+  "viewportHeight": 1080,
+  "viewportWidth": 1920,
+  "defaultCommandTimeout": 100000,
+  "projectId": "anjyya"
+}
